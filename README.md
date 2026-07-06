@@ -39,3 +39,36 @@ efficiently by recording daily attendance, calculating working hours, generating
 | Version Control | Git |
 | Repository Hosting | GitHub |
 
+## 🚀 Getting Started
+
+### Prerequisites
+
+Before running this project, make sure you have:
+
+- .NET SDK
+- Visual Studio Code or Visual Studio
+- Git
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+```
+
+### Navigate to the Project
+
+```bash
+cd YOUR_REPOSITORY
+```
+
+### Restore Dependencies
+
+```bash
+dotnet restore
+```
+
+### Run the Application
+
+```bash
+dotnet run
+```
