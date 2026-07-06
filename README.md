@@ -52,13 +52,13 @@ Before running this project, make sure you have:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+[git clone https://github.com/venumadhavi-4/employee-attendance-system.git]
 ```
 
 ### Navigate to the Project
 
 ```bash
-cd YOUR_REPOSITORY
+cd employee-attendance-system
 ```
 
 ### Restore Dependencies
